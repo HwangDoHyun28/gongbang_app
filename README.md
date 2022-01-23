@@ -12,7 +12,7 @@
 - [박성아](https://github.com/seonga76)(**팀장**, 앱 디자이너, 기획자2) 
 - [곽예진](https://github.com/Kwakyejin)(**팀원1**, 앱(프론트엔드) 개발자)
 - [황도현](https://github.com/HwangDoHyun28)(**팀원2**, AI(머신 러닝) 개발자, 기획자1, 제품 디자이너)
-<br>
+
 +도움 주신 분: [김도균](https://github.com/jasper200207)(백엔드 서버 구축)
 
 --------------
